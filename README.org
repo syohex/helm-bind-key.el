@@ -10,8 +10,8 @@
 - [[https://github.com/emacs-helm/helm][Helm]]
 - [[https://github.com/jwiegley/use-package/blob/master/bind-key.el][bind-key]] 
 
-  =helm-bind-key== is now available in the famous emacs package repo [[http://melpa.milkbox.net/][MELPA]], so the recommended way is to install it through Emacs package management system.
+  =helm-bind-key== is now available in the famous emacs package repo [[https://melpa.org/][MELPA]], so the recommended way is to install it through Emacs package management system.
 
 
-* Similar appilications
+* Similar applications
   [[https://github.com/emacs-helm/helm-descbinds][emacs-helm/helm-descbinds]]  had an influence on  =helm-bind-key= .
